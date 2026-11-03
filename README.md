@@ -47,17 +47,3 @@ Contoh body (JSON) untuk POST dan PUT:
   "author": "Eiichiro Oda"
 }
 ```
-
-## Hasil Pengujian di Postman
-
-### POST
-![POST](screenshots/post.png)
-
-### GET
-![GET](screenshots/get.png)
-
-### PUT
-![PUT](screenshots/put.png)
-
-### DELETE
-![DELETE](screenshots/delete.png)
