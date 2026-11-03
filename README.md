@@ -47,3 +47,15 @@ Contoh body (JSON) untuk POST dan PUT:
   "author": "Eiichiro Oda"
 }
 ```
+screenshoot
+POST
+<img width="1917" height="1078" alt="Screenshot 2026-11-03 095247" src="https://github.com/user-attachments/assets/b6415b57-3e9c-44f5-811e-29c9c0299b27" />
+PUT
+<img width="1917" height="1078" alt="Screenshot 2026-11-03 095434" src="https://github.com/user-attachments/assets/a9d7fc64-88c4-453e-9032-f0089c444572" />
+GET
+<img width="1916" height="1078" alt="Screenshot 2026-11-03 095910" src="https://github.com/user-attachments/assets/ab7c6f3a-df50-4272-979f-381976a094e7" />
+DELETE
+<img width="1917" height="1078" alt="Screenshot 2026-11-03 100042" src="https://github.com/user-attachments/assets/f2b6d92c-5846-46df-9ace-12595b582c1b" />
+
+
+
